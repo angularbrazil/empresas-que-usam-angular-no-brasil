@@ -35,13 +35,6 @@ Nome | Link | Tecnologias | Empresa
 
 [MIT]
 
-## Slack
-https://angularbrasil.slack.com (+1.9k membros!)
-
-## Core members
-
-...
-
-## Referência
+## Projeto inspirado no repositório:
 
 https://github.com/react-brasil/empresas-que-usam-react-no-brasil
