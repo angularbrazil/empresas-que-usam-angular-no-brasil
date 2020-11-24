@@ -1,6 +1,13 @@
 # Empresas que usam Angular
 
-> OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/candidosales/empresas-que-usam-angular-no-brasil/blob/master/CONTRIBUTING.md)
+Repositório responsável na listagem de empresas brasileiras ou atuantes no Brasil que usam o **[Angular](https://angular.io/) ❤** e seu ecossistema.
+
+Se sua empresa ou projeto utiliza alguma tecnologia do ecossistema Angular, adicione aqui nesta lista abrindo um **[Pull Request](https://github.com/angularbrazil/empresas-que-usam-angular-no-brasil/pulls)** para nós.
+
+<br/>
+<br/>
+
+> OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/angularbrazil/empresas-que-usam-angular-no-brasil/blob/master/CONTRIBUTING.md)
 
 Nome | Cidade | Tecnologias Relacionadas | Remoto
 :------------: | ------------------------ | ------------ | ------------
