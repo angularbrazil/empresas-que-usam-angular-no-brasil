@@ -2,8 +2,8 @@
 
 > OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/candidosales/empresas-que-usam-angular-no-brasil/blob/master/CONTRIBUTING.md)
 
-Nome | Cidade | Tecnologias Relacionadas
-:------------: | ------------------------ | ------------
+Nome | Cidade | Tecnologias Relacionadas | Remoto
+:------------: | ------------------------ | ------------ | ------------
 [Bemind](https://sites.google.com/bemind.com.br/vagas/p%C3%A1gina-inicial/desenvolvedor-web-s%C3%AAnior?authuser=0) | Recife, PE |
 [BrasilPrev](https://www1.brasilprev.com.br/) | São Paulo, SP | Material Design
 [Bravi](https://bravi.com.br) | Florianópolis, SC |
