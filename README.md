@@ -26,6 +26,7 @@ Nome | Cidade | Tecnologias Relacionadas | Remoto
 [Inventione](http://inventione.com.br/vagas) | Aracaju, SE | Material Design
 [Mandala](https://www.mandalaclothing.com.br/) | São Paulo, SP | 
 [Sysmap Solutions](http://sysmap.peoplenect.com/ats/external_applicant/?page=view_all_jobs) | São Paulo, SP |
+[TOTVS](https://totvs.gupy.io/)|São Paulo, SP<br/> Rio de Janeiro, RJ <br/>Joinville, SC| NgRx, RxJS
 [TurboMKT](https://www.turbomkt.com.br/carreiras/) | São Bernardo do Campo, SP |
 [VIXTEAM](http://vixteam.com.br/) | Vitória, ES | Material Design, RxJS, Jest
 [XP Investimentos](https://www.xpi.com.br/) | São Paulo, SP | Material Design
